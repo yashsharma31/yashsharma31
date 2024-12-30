@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **yash.sh0031@gmail.com**
 
-- ⚡ Fun fact **[add a fun fact about yourself]**
+- ⚡ Fun fact - I am a designer as well so i have a good eye for a better UI/UX
 
 ---
 
