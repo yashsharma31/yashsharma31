@@ -16,7 +16,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=yashsharma31&theme=flat&no-frame=true&margin-w=15" alt="yashsharma31" />
 </a>
 
-- 🌱 I’m currently learning **[your new learning focus]**
+- 🌱 I’m currently learning three.js
 
 - 📫 How to reach me **yash.sh0031@gmail.com**
 
