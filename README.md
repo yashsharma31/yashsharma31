@@ -107,10 +107,6 @@
 ---
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashsharma31&show_icons=true&locale=en&layout=compact" alt="yashsharma31" />
-</p>
-
-<p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=yashsharma31&show_icons=true&locale=en" alt="yashsharma31" />
 </p>
 
