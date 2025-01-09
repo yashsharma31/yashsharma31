@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Sharma</h1>
-<h3 align="center">A Passionate Frontend Developer and AI Enthusiast</h3>
+<h3 align="center">Frontend Developer specializing in React.js and Creative Development Tools</h3>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=yashsharma31&label=Profile%20views&color=0e75b6&style=flat" alt="yashsharma31" />
@@ -11,105 +11,49 @@
     </a>
 </p>
 
----
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashsharma31&theme=flat&no-frame=true&margin-w=15" alt="yashsharma31" />
-</a>
+### 🚀 Featured Projects
 
-- 🌱 I’m currently learning **Three.js**
+#### Video Editor Platform
+- WebGL-based video editing platform using Pixi.js and React
+- 30% performance improvement in rendering
+- Real-time editing capabilities for social media content
+- Tech: React, Pixi.js, WebGL
 
-- 📫 How to reach me **yash.sh0031@gmail.com**
+#### xG Workflow Platform
+- Email marketing workflow management system
+- Custom email editor with React Email
+- 40% improvement in customization efficiency
+- Tech: React, React Email, SVG Optimization
 
-- ⚡ Fun fact: **[Add a fun fact about yourself]**
+#### DrawDash
+- Real-time collaborative design tool
+- Infinite canvas with advanced shape manipulation
+- Multi-user collaboration features
+- Tech: React, Canvas API, Real-time sync
 
----
+#### Levered
+- Robust data storage platform
+- Integrated payment processing with Stripe
+- OAuth implementation
+- Tech: Next.js, TypeScript, Stripe
 
-### 📝 Latest Blog Posts
+🌱 Currently exploring: Three.js and WebGL animations
+💼 Open to: Frontend Developer opportunities
 
-<!-- BLOG-POST-LIST:START -->
-- [How AI is Transforming Web Development](#)
-- [Building Responsive UIs with React](#)
-- [Why TypeScript is Essential for Modern Web Apps](#)
-<!-- BLOG-POST-LIST:END -->
+### 📫 Reach Me
+- Email: yash.sh0031@gmail.com
+- LinkedIn: [Yash Sharma](https://linkedin.com/in/yashsharma31)
+- Portfolio: [Your Portfolio URL]
 
-[Check out my Medium Blog](https://medium.com/@yash.sh0031)
+### 💻 Tech Stack
+Frontend: React.js, Next.js, TypeScript, JavaScript
+UI/UX: Tailwind CSS, Material UI, Framer Motion
+Tools: WebGL, Pixi.js, React Email, Redux
+Cloud: AWS, Firebase, Supabase
 
----
+### 📊 GitHub Stats
+[Your existing stats section]
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://twitter.com/yashsh0031" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-    </a>
-    <a href="https://linkedin.com/in/yashsharma31" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-    </a>
-    <a href="https://medium.com/@yash.sh0031" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
-    </a>
-    <a href="/medium.com/feed/@yash.sh0031" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="RSS" height="30" width="40" />
-    </a>
-</p>
+⚡ Fun fact: Building tools that make developers' lives easier!
 
----
-
-<h3 align="left">🚀 Languages and Tools:</h3>
-<p align="left">
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    </a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
-    </a>
-    <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-    </a>
-    <a href="https://graphql.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
-    </a>
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-    </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-    </a>
-    <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-    </a>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-    </a>
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-    </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-    </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-    </a>
-    <!-- Add more icons as needed -->
-</p>
-
----
-
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=yashsharma31&show_icons=true&locale=en" alt="yashsharma31" />
-</p>
-
-<p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashsharma31&" alt="yashsharma31" />
-</p>
+[Keep your existing Languages and Tools section]
