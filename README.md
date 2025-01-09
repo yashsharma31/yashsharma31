@@ -108,28 +108,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashsharma31&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&rank_icon=github&card_width=500" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=yashsharma31&show_icons=true&theme=radical&locale=en" alt="yashsharma31" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashsharma31&theme=transparent&hide_border=true&card_width=500" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashsharma31&layout=compact&theme=transparent&hide_border=true&langs_count=8&card_width=500" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashsharma31&repo=video-editor&theme=transparent&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashsharma31&repo=xg-workflow&theme=transparent&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashsharma31&repo=drawdash&theme=transparent&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashsharma31&repo=levered&theme=transparent&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashsharma31&theme=transparent&no-frame=true&column=-1" />
-</p>
-
