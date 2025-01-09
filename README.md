@@ -111,6 +111,3 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=yashsharma31&show_icons=true&theme=radical&locale=en" alt="yashsharma31" />
 </p>
 
-<p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashsharma31&theme=radical" alt="yashsharma31" />
-</p>
