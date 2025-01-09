@@ -11,49 +11,106 @@
     </a>
 </p>
 
+---
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=yashsharma31&theme=flat&no-frame=true&margin-w=15" alt="yashsharma31" />
+</a>
+
 ### 🚀 Featured Projects
 
 #### Video Editor Platform
-- WebGL-based video editing platform using Pixi.js and React
-- 30% performance improvement in rendering
-- Real-time editing capabilities for social media content
-- Tech: React, Pixi.js, WebGL
+- High-performance video editing platform with real-time rendering
+- 30% performance improvement in rendering capabilities
+- Real-time editing features for social media content creation
+- Advanced UI with seamless user experience
 
 #### xG Workflow Platform
-- Email marketing workflow management system
-- Custom email editor with React Email
+- Sophisticated email marketing workflow management system
+- Custom email editor with advanced customization
 - 40% improvement in customization efficiency
-- Tech: React, React Email, SVG Optimization
+- Enhanced SVG optimization for creative designs
 
 #### DrawDash
 - Real-time collaborative design tool
 - Infinite canvas with advanced shape manipulation
 - Multi-user collaboration features
-- Tech: React, Canvas API, Real-time sync
+- Smart object snapping and alignment
 
 #### Levered
-- Robust data storage platform
-- Integrated payment processing with Stripe
-- OAuth implementation
-- Tech: Next.js, TypeScript, Stripe
+- Robust data storage platform with advanced features
+- Integrated payment processing system
+- Enhanced authentication with multiple providers
+- Optimized UI/UX in version 2.0
 
-🌱 Currently exploring: Three.js and WebGL animations
-💼 Open to: Frontend Developer opportunities
+🌱 Currently exploring: **Three.js and Advanced Animation Techniques**
 
-### 📫 Reach Me
-- Email: yash.sh0031@gmail.com
-- LinkedIn: [Yash Sharma](https://linkedin.com/in/yashsharma31)
-- Portfolio: [Your Portfolio URL]
+📫 Reach me: **yash.sh0031@gmail.com**
 
-### 💻 Tech Stack
-Frontend: React.js, Next.js, TypeScript, JavaScript
-UI/UX: Tailwind CSS, Material UI, Framer Motion
-Tools: WebGL, Pixi.js, React Email, Redux
-Cloud: AWS, Firebase, Supabase
+⚡ Fun fact: **Turning coffee into code and ideas into applications!**
 
-### 📊 GitHub Stats
-[Your existing stats section]
+---
 
-⚡ Fun fact: Building tools that make developers' lives easier!
+### 📝 Latest Blog Posts
 
-[Keep your existing Languages and Tools section]
+<!-- BLOG-POST-LIST:START -->
+- [Building High-Performance Web Applications](#)
+- [Modern Frontend Architecture Patterns](#)
+- [Optimizing React Applications for Scale](#)
+<!-- BLOG-POST-LIST:END -->
+
+[Read more on Medium](https://medium.com/@yash.sh0031)
+
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+    <a href="https://twitter.com/yashsh0031" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+    </a>
+    <a href="https://linkedin.com/in/yashsharma31" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    </a>
+    <a href="https://medium.com/@yash.sh0031" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
+    </a>
+</p>
+
+---
+
+<h3 align="left">🚀 Languages and Tools:</h3>
+<p align="left">
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+    </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+    </a>
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
+    </a>
+    <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+    </a>
+    <a href="https://graphql.org" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
+    </a>
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+    </a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+    </a>
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+    </a>
+</p>
+
+---
+
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=yashsharma31&show_icons=true&theme=radical&locale=en" alt="yashsharma31" />
+</p>
+
+<p align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashsharma31&theme=radical" alt="yashsharma31" />
+</p>
