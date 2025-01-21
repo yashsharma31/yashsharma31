@@ -110,3 +110,5 @@
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=yashsharma31&show_icons=true&theme=radical&locale=en" alt="yashsharma31" />
 </p>
+
+[![Peerlist](https://github-readme-badge.peerlist.io/api/yashsharma31?style=for-the-badge)](https://peerlist.io/yashsharma31)
